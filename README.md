@@ -1,4 +1,4 @@
-🍕 Pizza Menu App
+	** 🍕 Pizza Menu App **
 Live Demo 👉 pizza-menu-apps.netlify.app
 
 📋 About
