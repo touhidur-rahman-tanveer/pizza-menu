@@ -1,42 +1,42 @@
-	** 🍕 #Pizza_Menu_App **
-Live Demo 👉 pizza-menu-apps.netlify.app
+## 🍕 Pizza Menu App
 
-📋 About
-A modern, responsive React app displaying a stylish pizza menu with ingredients, pricing, and real-time stock availability.
-Built for speed, clean UI, and a great mobile experience.
+**Live Demo 👉** [pizza-menu-apps.netlify.app](https://pizza-menu-apps.netlify.app)
 
-✨ Key Features
-Responsive pizza menu layout
+---
 
-Availability badges (Available / Stock Out)
+## 📋 About
+A modern, responsive React app displaying a stylish pizza menu...
 
-Smooth hover effects and transitions
+---
 
-Roboto font integration
+## ✨ Key Features
+- Responsive pizza menu layout
+- Availability badges (Available / Stock Out)
+- Smooth hover effects and transitions
+- Roboto font integration
+- Hosted on Netlify
 
-Hosted on Netlify
+---
 
-🛠 Tech Stack
-React
+## 🛠 Tech Stack
+- React
+- CSS3
+- HTML5
+- Netlify (Deployment)
 
-CSS3
+---
 
-HTML5
+## 🚀 Run Locally
 
-Netlify (Deployment)
-
-🚀 Run Locally
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/pizza-menu-app.git
 cd pizza-menu-app
 npm install
 npm start
-Runs on http://localhost:3000
 
-📩 Connect
-Built with ❤️ by [Your Name].
-Feel free to connect on [LinkedIn] or [GitHub]!
+Runs on: http://localhost:3000
 
-🍕 Enjoy the Slice of Code!
+## 📩 Connect
+**Built with ❤️ by Touhidur Rahman Tanveer.
+
+## 🎯 Enjoy the Slice of Code!
